@@ -1,6 +1,6 @@
-# leJeuDuPendu
+# LeJeuDuPendu
 
-Le célébre jeu du pendu réalisé en C
+Le célébre jeu du pendu réalisé en C.
 
 ## Régles du jeu
 Le Pendu est un jeu consistant à trouver un mot en devinant quelles sont les lettres qui le composent.
