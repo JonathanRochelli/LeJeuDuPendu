@@ -1,4 +1,4 @@
-# LeJeuDuPendu
+# Le Jeu Du Pendu
 
 Le célébre jeu du pendu réalisé en C.
 
